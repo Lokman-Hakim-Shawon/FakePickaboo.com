@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/h/i/hisense-43u6f3-5-5-2024.jpg",
+      "title": "Hisense 43\" 4K Smart TV",
+      "price": 39990,
+      "previousPrice": 44990
+    },
+    {
+      "id": 2,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/h/i/hisense-43u6f3-5-5-2024.jpg",
+      "title": "Sony Bravia 55\" 4K Google TV",
+      "price": 79990,
+      "previousPrice": 89990
+    },
+    {
+      "id": 3,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/h/i/hisense-43u6f3-5-5-2024.jpg",
+      "title": "Samsung Crystal UHD 50\" Smart TV",
+      "price": 72990,
+      "previousPrice": 79990
+    },
+    {
+      "id": 4,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/h/i/hisense-43u6f3-5-5-2024.jpg",
+      "title": "LG 43\" 4K UHD Smart LED TV",
+      "price": 47990,
+      "previousPrice": 51990
+    },
+    {
+      "id": 5,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/h/i/hisense-43u6f3-5-5-2024.jpg",
+      "title": "Xiaomi Mi P1 43\" Android TV",
+      "price": 37990,
+      "previousPrice": 42990
+    }
+  ]
+  

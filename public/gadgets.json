@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/h/a/haylou-hq5-23-4-25.jpg",
+      "title": "Haylou HQ5 Wireless Headphones",
+      "price": 2890,
+      "previousPrice": 3490
+    },
+    {
+      "id": 2,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/h/a/haylou-hq5-23-4-25.jpg",
+      "title": "Baseus 20000mAh Power Bank",
+      "price": 2190,
+      "previousPrice": 2490
+    },
+    {
+      "id": 3,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/h/a/haylou-hq5-23-4-25.jpg",
+      "title": "Remax Magnetic Wireless Charger",
+      "price": 1590,
+      "previousPrice": 1890
+    },
+    {
+      "id": 4,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/h/a/haylou-hq5-23-4-25.jpg",
+      "title": "Havit Gaming Mouse RGB",
+      "price": 990,
+      "previousPrice": 1290
+    },
+    {
+      "id": 5,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/h/a/haylou-hq5-23-4-25.jpg",
+      "title": "Ugreen Type-C to HDMI Adapter",
+      "price": 890,
+      "previousPrice": 1090
+    }
+  ]
+  

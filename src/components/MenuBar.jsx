@@ -1,18 +1,15 @@
 import React from 'react';
+import { IoIosArrowForward } from "react-icons/io";
 
 const MenuBar = () => {
+    const menuList=['Air Conditioner','Television','Electronics & Appliances','smartPhone','Mobile Accessories','Computers','Computer Accessories','LifeStyle']
     return (
         <div className='w-[25%] bg-white'>
-            <ul className=" text-lg pl-8 py-8 space-y-2">
-                <li className="">Air Conditioner</li>
-                <li className="">Television</li>
-                <li className="">Electronics & Appliances</li>
-                <li className="">SmartPhone</li>
-                <li className="">Mobile Accessories</li>
-                <li className="">Computers</li>
-                <li className="">Computer Accessories</li>
-                <li className="">LifeStyle</li>
-            </ul>
+            {
+                menuList.map((data,index)=><ul key={index} className=" text-lg pl-8 py-2 space-y-2">
+                <li className="flex justify-between ">{data} <span className='text-xl font-bold text-gray-400 px-4'><IoIosArrowForward /></span></li>
+            </ul>)
+            }
         </div>
     );
 };

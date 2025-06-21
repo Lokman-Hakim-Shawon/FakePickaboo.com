@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/w/s/wsi-diamond-18m_frost_clean_11-5-25.jpg",
+      "title": "Wireless Headphones",
+      "price": 59.99,
+      "previousPrice": 79.99
+    },
+    {
+      "id": 2,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/w/s/wsi-diamond-18m_frost_clean_11-5-25.jpg",
+      "title": "Smartwatch",
+      "price": 129.99,
+      "previousPrice": 159.99
+    },
+    {
+      "id": 3,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/w/s/wsi-diamond-18m_frost_clean_11-5-25.jpg",
+      "title": "Bluetooth Speaker",
+      "price": 39.99,
+      "previousPrice": 49.99
+    },
+    {
+      "id": 4,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/w/s/wsi-diamond-18m_frost_clean_11-5-25.jpg",
+      "title": "Portable Charger",
+      "price": 25.99,
+      "previousPrice": 30.99
+    },
+    {
+      "id": 5,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/w/s/wsi-diamond-18m_frost_clean_11-5-25.jpg",
+      "title": "Wireless Mouse",
+      "price": 15.49,
+      "previousPrice": 19.99
+    }
+  ]
+  

@@ -3,7 +3,7 @@ import { FiShoppingCart } from 'react-icons/fi'
 import { FiMenu } from 'react-icons/fi'
 const Navbar = () => {
     return (
-        <nav className='flex justify-between items-center bg-primary py-2 text-white sticky top-0'>
+        <nav className='flex justify-between items-center bg-primary py-2 text-white sticky top-0 z-30'>
             <div className='flex items-center gap-x-4 w-[25%]  font-bold text-3xl'>
             <FiMenu className="text-3xl cursor-pointer ml-4" />
                 <h2>FakePickaboo</h2>

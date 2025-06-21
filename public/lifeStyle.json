@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/w/i/wild_stone_forest_spice_edt_50ml_-1.jpg",
+      "title": "Wild Stone Forest Spice EDT 50ml",
+      "price": 349,
+      "previousPrice": 450
+    },
+    {
+      "id": 2,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/w/i/wild_stone_forest_spice_edt_50ml_-1.jpg",
+      "title": "Axe Signature Intense Body Perfume 122ml",
+      "price": 420,
+      "previousPrice": 500
+    },
+    {
+      "id": 3,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/w/i/wild_stone_forest_spice_edt_50ml_-1.jpg",
+      "title": "Denver Hamilton Deo for Men 165ml",
+      "price": 260,
+      "previousPrice": 310
+    },
+    {
+      "id": 4,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/w/i/wild_stone_forest_spice_edt_50ml_-1.jpg",
+      "title": "Fogg Scent Xtremo Perfume Spray 100ml",
+      "price": 499,
+      "previousPrice": 599
+    },
+    {
+      "id": 5,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/w/i/wild_stone_forest_spice_edt_50ml_-1.jpg",
+      "title": "NIVEA Men Fresh Active Deodorant 150ml",
+      "price": 320,
+      "previousPrice": 390
+    }
+  ]
+  

@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/b/g/bgs-508-17-6-25-1.jpg",
+      "title": "Vision Gas Stove BGS-508 Double Burner",
+      "price": 3490,
+      "previousPrice": 3990
+    },
+    {
+      "id": 2,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/b/g/bgs-508-17-6-25-1.jpg",
+      "title": "Walton Induction Cooker 2000W",
+      "price": 5590,
+      "previousPrice": 5990
+    },
+    {
+      "id": 3,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/b/g/bgs-508-17-6-25-1.jpg",
+      "title": "Philips Electric Kettle 1.7L",
+      "price": 2290,
+      "previousPrice": 2690
+    },
+    {
+      "id": 4,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/b/g/bgs-508-17-6-25-1.jpg",
+      "title": "Nova Rice Cooker 2.8L",
+      "price": 3190,
+      "previousPrice": 3490
+    },
+    {
+      "id": 5,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/b/g/bgs-508-17-6-25-1.jpg",
+      "title": "Kiam Pressure Cooker 5L",
+      "price": 2190,
+      "previousPrice": 2590
+    }
+  ]
+  

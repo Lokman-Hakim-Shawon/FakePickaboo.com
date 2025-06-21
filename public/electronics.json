@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/w/m/wm-102_1.jpg",
+      "title": "Walton Front Load Washing Machine 10.2 KG",
+      "price": 44990,
+      "previousPrice": 48990
+    },
+    {
+      "id": 2,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/w/m/wm-102_1.jpg",
+      "title": "Singer Microwave Oven 30L Digital",
+      "price": 10990,
+      "previousPrice": 12490
+    },
+    {
+      "id": 3,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/w/m/wm-102_1.jpg",
+      "title": "Vision Blender 3 in 1 850W",
+      "price": 2990,
+      "previousPrice": 3490
+    },
+    {
+      "id": 4,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/w/m/wm-102_1.jpg",
+      "title": "Walton Refrigerator 262L Frost",
+      "price": 28990,
+      "previousPrice": 31490
+    },
+    {
+      "id": 5,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/w/m/wm-102_1.jpg",
+      "title": "Panasonic Iron Non-Stick Dry",
+      "price": 1490,
+      "previousPrice": 1790
+    }
+  ]
+  

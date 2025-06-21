@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/c/6/c6--17.jpg",
+      "title": "Portable Mini Tripod Stand",
+      "price": 690,
+      "previousPrice": 890
+    },
+    {
+      "id": 2,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/c/6/c6--17.jpg",
+      "title": "Lavalier Microphone with Noise Cancellation",
+      "price": 990,
+      "previousPrice": 1190
+    },
+    {
+      "id": 3,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/c/6/c6--17.jpg",
+      "title": "Smartphone Ring Light for Vlogging",
+      "price": 1490,
+      "previousPrice": 1790
+    },
+    {
+      "id": 4,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/c/6/c6--17.jpg",
+      "title": "Universal Phone Holder Mount",
+      "price": 390,
+      "previousPrice": 499
+    },
+    {
+      "id": 5,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/c/6/c6--17.jpg",
+      "title": "USB Rechargeable Selfie Stick",
+      "price": 850,
+      "previousPrice": 1090
+    }
+  ]
+  

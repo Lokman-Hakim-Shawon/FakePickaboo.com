@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/c/7/c71-6-128gb-25-5-25.jpg",
+      "title": "Samsung Galaxy A15 (6/128GB)",
+      "price": 18999,
+      "previousPrice": 20999
+    },
+    {
+      "id": 2,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/c/7/c71-6-128gb-25-5-25.jpg",
+      "title": "Redmi Note 13 Pro (8/256GB)",
+      "price": 24999,
+      "previousPrice": 26999
+    },
+    {
+      "id": 3,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/c/7/c71-6-128gb-25-5-25.jpg",
+      "title": "Tecno Spark 20 Pro Plus (8/256GB)",
+      "price": 17990,
+      "previousPrice": 19990
+    },
+    {
+      "id": 4,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/c/7/c71-6-128gb-25-5-25.jpg",
+      "title": "Realme Note 50 (4/64GB)",
+      "price": 10490,
+      "previousPrice": 11990
+    },
+    {
+      "id": 5,
+      "img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/90e3b9f4120fc209bf60003e3b0e1323/c/7/c71-6-128gb-25-5-25.jpg",
+      "title": "iPhone 15 Pro Max (256GB)",
+      "price": 169990,
+      "previousPrice": 179990
+    }
+  ]
+  
